@@ -7,4 +7,4 @@
 ### sub sub titile
 My First Project [my project](https://github.com/alaseremaha/project/edit/main/README.md) 
 
-[python](docs/python.png)
+[python](python.png)
